@@ -1,0 +1,2 @@
+# latihan
+Repository latihan Github
